@@ -41,13 +41,13 @@ npm --version
 
 ### Installation & Setup
 
-1. **Clone the repository**
+**1. Clone the repository**
 \`\`\`bash
 git clone https://github.com/CHIDARISAIKRISHNA/Restaurant-Website-SQL.git
 cd Restaurant-Website-SQL
 \`\`\`
 
-2. **Setup Backend**
+**2. Setup Backend**
 \`\`\`bash
 # Navigate to backend directory
 cd backend
@@ -62,7 +62,7 @@ npm run setup
 npm start
 \`\`\`
 
-3. **Setup Frontend (New Terminal)**
+**3. Setup Frontend (New Terminal)**
 \`\`\`bash
 # Navigate to frontend directory
 cd frontend
@@ -77,7 +77,7 @@ python -m http.server 8080
 python -m SimpleHTTPServer 8080
 \`\`\`
 
-4. **Access Application**
+**4. Access Application**
 - Frontend: http://localhost:8080
 - Backend API: http://localhost:3000/api
 - Health Check: http://localhost:3000/api/health
