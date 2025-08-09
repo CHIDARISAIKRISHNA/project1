@@ -1,4 +1,4 @@
-# 🍽️ Dynamic-Restaurant-Ordering-Payment-System
+# 🍽️ Dynamic Restaurant Ordering Payment System
 
 ## Project Description
 The Restaurant Management System is developed for **Delicious Bites Restaurant** to enhance customer experience and streamline restaurant operations. The system aims to solve operational challenges including menu management, order processing, table bookings, customer feedback, and administrative oversight.
